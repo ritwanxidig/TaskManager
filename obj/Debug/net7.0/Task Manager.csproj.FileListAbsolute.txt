@@ -1,0 +1,83 @@
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\appsettings.json
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Task Manager.exe
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Task Manager.deps.json
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Task Manager.runtimeconfig.json
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Task Manager.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Task Manager.pdb
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\Task Manager.csproj.AssemblyReference.cache
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\Task Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\Task Manager.AssemblyInfoInputs.cache
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\Task Manager.AssemblyInfo.cs
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\Task Manager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\Task Manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\staticwebassets\msbuild.Task Manager.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\staticwebassets\msbuild.build.Task Manager.props
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Task Manager.props
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Task Manager.props
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\scopedcss\bundle\Task Manager.styles.css
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\Task Manager.csproj.CopyComplete
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\Task Manager.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\refint\Task Manager.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\Task Manager.pdb
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\Task Manager.genruntimeconfig.cache
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\obj\Debug\net7.0\ref\Task Manager.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Ritwan Abdirashit\Documents\FullStack Projects\BackEnd\Task Manager\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
